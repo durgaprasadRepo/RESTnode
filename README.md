@@ -26,5 +26,6 @@ $ curl  -X 'DELETE' http://127.0.0.1:8000/1
 
 
 PS: install curl 
+
 sudo apt-get update
 sudo apt-get install curl
